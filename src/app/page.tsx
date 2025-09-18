@@ -53,7 +53,7 @@ export default function Home() {
           title="Tokenomics"
           description="Explore our token distribution and economics"
           kpiItems={[
-            { value: "100M", description: "Total Supply", longDescription: "The total amount of tokens available in the market.", icon: LucideIcon }
+            { value: "100M", description: "Total Supply", longDescription: "The total amount of tokens available in the market.", icon: { ArrowRight } }
           ]}
         />
       </div>
